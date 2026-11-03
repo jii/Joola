@@ -1,0 +1,15 @@
+{
+  "appId": "cz.miji.pinfinity",
+  "appName": "Pinfinity",
+  "webDir": "www",
+  "plugins": {
+    "BluetoothLe": {
+      "displayStrings": {
+        "scanning": "Hledám robota…",
+        "cancel": "Zrušit",
+        "availableDevices": "Nalezení roboti",
+        "noDeviceFound": "Robot nenalezen"
+      }
+    }
+  }
+}
