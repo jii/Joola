@@ -1,2 +1,0 @@
-# Joola
-SW na robota
