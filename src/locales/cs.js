@@ -83,8 +83,8 @@ export default {
   spin_max_topspin: 'Max. topspin',
   spin_topspin:     'Topspin',
   spin_no_spin:     'Bez rotace',
-  spin_backspin:    'Podkrut',
-  spin_max_backspin:'Max. podkrut',
+  spin_backspin:    'Chop',
+  spin_max_backspin:'Max. chop',
 
   // Power types
   power_extreme:     'Extrémní',
